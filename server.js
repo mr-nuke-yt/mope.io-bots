@@ -105,7 +105,7 @@ class bot {
         this.id = id;
         this.ws = null;
         this.server = server;
-        this.botNick = ["SizRex YT", "Free bots"];
+        this.botNick = ["mr nuke on YT", "use tag 🐈", ":D"];
         this.inConnect = false;
         this.closed = true;
         this.int = null;
